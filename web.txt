@@ -1,0 +1,341 @@
+# WEBSITE CONTENT & HERO EXPERIENCE
+
+==================================================
+OVERALL WEBSITE FEEL
+====================
+
+The RUNIX website should feel like:
+
+* a living intelligent ecosystem
+* futuristic infrastructure
+* adaptive systems technology
+* advanced AI orchestration
+* robotics-grade engineering
+* premium cinematic technology
+
+The website should feel:
+
+* alive
+* dynamic
+* immersive
+* engineering-driven
+* believable
+* next-generation
+
+NOT:
+
+* static
+* corporate boring
+* generic SaaS
+* over-cluttered
+
+==================================================
+HERO SECTION EXPERIENCE
+=======================
+
+The hero section is the MOST IMPORTANT section.
+
+It should instantly communicate:
+
+> “This company builds future intelligent infrastructure.”
+
+==================================================
+HERO VISUALS
+============
+
+The hero background should contain:
+
+* moving node networks
+* glowing connection wires
+* animated web-like infrastructure
+* floating AI nodes
+* live orchestration visuals
+* moving particles
+* adaptive circuit flows
+* neural-network inspired motion graphics
+* subtle futuristic grid system
+* layered depth effects
+* cinematic lighting
+
+Think:
+
+* AI nervous system
+* distributed intelligence
+* connected infrastructure
+* adaptive ecosystem
+
+The background should feel:
+
+* intelligent
+* responsive
+* alive
+
+==================================================
+NODE NETWORK ANIMATION
+======================
+
+Create animated:
+
+* connected dots
+* floating nodes
+* moving wires
+* dynamic links
+* glowing pulses
+
+Behavior:
+
+* nodes slowly move
+* wires connect dynamically
+* pulses travel through connections
+* interaction reacts slightly to cursor movement
+* parallax depth effect
+
+Visual inspiration:
+
+* neural networks
+* futuristic infrastructure maps
+* AI orchestration systems
+* cybernetic ecosystems
+
+==================================================
+HERO CONTENT
+============
+
+MAIN HEADLINE:
+
+“Adaptive Intelligence For Future Systems”
+
+Alternative lines rotating slowly:
+
+* “Engineering Autonomous Ecosystems”
+* “AI Infrastructure Beyond Interfaces”
+* “Intelligent Runtime For The Next Era”
+* “Modular AI. Adaptive Execution.”
+* “Where AI, Robotics & Infrastructure Converge”
+
+==================================================
+HERO SUBTITLE
+=============
+
+“RUNIX is building a modular AI ecosystem designed for orchestration, edge intelligence, robotics integration, and adaptive execution across future computing systems.”
+
+==================================================
+CTA BUTTONS
+===========
+
+Primary:
+
+* Explore Ecosystem
+
+Secondary:
+
+* View Technology
+
+Third:
+
+* Contact Us
+
+Button style:
+
+* glassmorphism
+* glow on hover
+* subtle pulse effect
+* futuristic animation
+
+==================================================
+HERO CENTER VISUAL
+==================
+
+Center visual should include:
+
+* animated RUNIX logo
+* glowing circular orbit
+* floating data fragments
+* node network behind logo
+* subtle energy pulses
+* orbiting UI particles
+
+The logo should feel:
+
+* powerful
+* intelligent
+* futuristic
+* clean
+
+==================================================
+SCROLL TRANSITION
+=================
+
+When scrolling:
+
+* hero wires slowly fade
+* new sections emerge smoothly
+* animated transitions connect sections
+* ecosystem visuals continue subtly
+
+The page should feel like:
+one connected intelligent system.
+
+==================================================
+LANDING PAGE CONTENT
+====================
+
+# SECTION 1 — VISION
+
+Headline:
+“Beyond Software. Beyond Automation.”
+
+Text:
+“RUNIX is designing adaptive AI infrastructure for future intelligent systems — combining orchestration, modular intelligence, robotics integration, and edge execution into one evolving ecosystem.”
+
+==================================================
+
+# SECTION 2 — ECOSYSTEM
+
+Headline:
+“A Modular Ecosystem Built For Intelligence”
+
+Cards:
+
+* AI Employees
+* Adaptive Runtime
+* Edge Intelligence
+* Robotics Integration
+* Autonomous Infrastructure
+* Cross Platform Systems
+
+Each card:
+
+* glowing hover
+* animated borders
+* connected visual lines
+
+==================================================
+
+# SECTION 3 — TECHNOLOGY
+
+Headline:
+“Engineered For The Future”
+
+Text:
+“Built around orchestration, adaptive execution, and intelligent infrastructure, RUNIX represents a new approach to modular AI ecosystems.”
+
+Background:
+
+* animated topology map
+* flowing data lines
+* moving node grid
+
+==================================================
+
+# SECTION 4 — FUTURE SYSTEMS
+
+Headline:
+“Where Intelligent Systems Evolve”
+
+Text:
+“From adaptive runtimes to edge intelligence and robotics ecosystems, RUNIX explores the next generation of autonomous infrastructure.”
+
+==================================================
+
+# SECTION 5 — CONTACT CTA
+
+Headline:
+“Build The Future With RUNIX”
+
+Text:
+“The future of adaptive intelligent systems is only beginning.”
+
+Buttons:
+
+* Contact Us
+* Join The Vision
+
+==================================================
+ABOUT PAGE CONTENT
+==================
+
+Headline:
+“Engineering Adaptive Intelligence”
+
+Text:
+“RUNIX was envisioned as a modular ecosystem where intelligent systems, orchestration, robotics, and adaptive infrastructure work together seamlessly across future computing environments.”
+
+Add:
+
+* animated timeline
+* ecosystem growth visuals
+* philosophy cards
+
+==================================================
+TECHNOLOGY PAGE CONTENT
+=======================
+
+Sections:
+
+* Orchestration Systems
+* AI Employees
+* Adaptive Runtime
+* Edge Intelligence
+* Robotics Integration
+* Cross Platform Infrastructure
+
+Every section should contain:
+
+* animated diagrams
+* moving network lines
+* futuristic visual flows
+
+==================================================
+CONTACT PAGE CONTENT
+====================
+
+Headline:
+“Connect With RUNIX”
+
+Text:
+“Whether you're exploring future infrastructure, intelligent ecosystems, or advanced AI systems — RUNIX is building toward the next generation of adaptive technology.”
+
+==================================================
+ANIMATION STYLE
+===============
+
+Animations should feel:
+
+* smooth
+* premium
+* cinematic
+* lightweight
+* intelligent
+
+NOT:
+
+* childish
+* chaotic
+* flashy for no reason
+
+Use:
+
+* Framer Motion
+* SVG animations
+* canvas particle systems
+* GPU-optimized transforms
+* subtle parallax
+
+==================================================
+FINAL VISUAL FEEL
+=================
+
+The final website should feel like:
+
+* a futuristic AI infrastructure company
+* a next-generation systems engineering brand
+* a believable advanced technology ecosystem
+
+It should feel:
+
+* immersive
+* elegant
+* intelligent
+* futuristic
+* alive
