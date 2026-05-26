@@ -1,0 +1,49 @@
+# RUNIX Website — Improvement Plan
+
+## Phase 1: UI Improvements (Plain but Professional)
+
+Tone down the heavy sci-fi/cyberpunk aesthetic toward a clean, minimal, professional look.
+
+### Changes:
+
+| Area | Current | Proposed |
+|---|---|---|
+| Color palette | Dark bg #050508, cyan/purple neon accents | Muted dark bg (#0a0a0f), single subtle accent slate-blue (#4f6f8f) |
+| Typography | Uppercase, tracking-[0.2em], heavy gradients | Clean sans-serif, readable weights, limited gradient |
+| Glassmorphism | .glass-panel with blur + semi-transparent bg | Flat cards, subtle borders, lighter shadows |
+| Animations | Particle canvas, orbiting elements, heavy Framer Motion | Minimal fade-in on scroll only |
+| Homepage hero | Rotating logo, particle network, orbiting dots | Clean headline + subtext + 1–2 CTAs |
+| Layout spacing | py-32, mb-24, large gaps | Tighter consistent spacing (py-16, gap-4) |
+| Buttons | Rounded-full with neon glow | Rounded-lg, solid fill, subtle hover |
+| Icons | Colored boxes with hover scale | Single-tone outline, smaller |
+
+### Files to modify:
+- src/app/globals.css
+- src/app/layout.tsx
+- src/components/Navbar.tsx
+- src/app/page.tsx
+- src/app/about/page.tsx
+- src/app/ecosystem/page.tsx
+- src/app/technology/page.tsx
+- src/app/products/page.tsx
+- src/app/products/[id]/page.tsx
+- src/app/research/page.tsx
+- src/app/research/[id]/page.tsx
+- src/app/careers/page.tsx
+- src/app/contact/page.tsx
+- src/app/status/page.tsx
+- src/app/secure-node-access/page.tsx
+
+## Phase 2: Direct Database Connection
+
+Move from client-only Firebase to server-side data access via API routes.
+
+### New files:
+- src/lib/firebase-admin.ts — Firebase Admin SDK init
+- src/app/api/research/route.ts — GET all articles
+- src/app/api/research/[id]/route.ts — GET single article
+- src/app/api/contact/route.ts — POST contact form
+
+### Changes:
+- Convert research pages from "use client" to Server Components fetching via API
+- Keep Firebase Auth (admin panel) client-side (requires user session)
